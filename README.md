@@ -7,3 +7,10 @@ const PEDROHSMENDONCA = {
   Linguagens: [".Html", "css", "aprendendo cada dia mais"],
 };
 
+
+[linkedin]: [https://www.linkedin.com/in/william-l-9b6625102/](https://www.linkedin.com/in/pedro-henrique-santos-mendon%C3%A7a/)
+
+#### Rede Sociais!
+
+ 
+👔 [linkedin][linkedin]
